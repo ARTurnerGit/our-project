@@ -6,6 +6,7 @@
 2 - Shadi
 3 - Harsheek
 4 - Maryam
+5 - Marina
 
 # team members hobbies
 
@@ -13,3 +14,4 @@
 2 - Cat sitting
 3 - crypto speculation
 4 - cooking excellent food
+5 - hiding small chocolates from family members
